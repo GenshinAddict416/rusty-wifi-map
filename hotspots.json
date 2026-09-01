@@ -1,0 +1,40 @@
+[
+  {
+    "name": "Free Wifi",
+    "access_type": "Password Required",
+    "has_captive_portal": false,
+    "location": {
+      "latitude": {
+        "degrees": 49,
+        "minutes": 6,
+        "seconds": 15.9,
+        "direction": "N"
+      },
+      "longitude": {
+        "degrees": 22,
+        "minutes": 36,
+        "seconds": 69.4,
+        "direction": "W"
+      }
+    }
+  },
+  {
+    "name": "Corner Bakery Cafe",
+    "access_type": "Password Required",
+    "has_captive_portal": false,
+    "location": {
+      "latitude": {
+        "degrees": 34,
+        "minutes": 3,
+        "seconds": 47.92,
+        "direction": "N"
+      },
+      "longitude": {
+        "degrees": 118,
+        "minutes": 14,
+        "seconds": 37.32,
+        "direction": "W"
+      }
+    }
+  }
+]
